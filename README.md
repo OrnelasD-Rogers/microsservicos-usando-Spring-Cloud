@@ -21,7 +21,7 @@ O objetivo deste projeto foi de aprender como funciona uma arquitetura de micro 
 - Suba os servidores no docker que estão no arquivo docker-compose.yml  através do comando:
 
   ```
-  docker-compose up
+  docker -compose up
   ```
 
 - Importe os projetos como módulos em sua IDE de preferência e Rode primeiro os projetos: config-server e service-discovery. Após isso os outros projetos podem ser abertos.
